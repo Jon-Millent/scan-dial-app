@@ -51,7 +51,7 @@ class AboutPage extends StatelessWidget {
                 top: 20.px
               ),
               child: Text(
-                "version 1.0.0",
+                "version 1.0.2",
                 style: TextStyle(
                   fontSize: 28.px,
                   color: Colors.grey
